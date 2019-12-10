@@ -1,0 +1,1 @@
+aliveFrames = 30-1;

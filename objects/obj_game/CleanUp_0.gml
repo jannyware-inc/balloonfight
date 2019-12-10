@@ -1,0 +1,1 @@
+if(enableCRTShader)	instance_destroy(CRTController);
